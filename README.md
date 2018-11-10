@@ -1,4 +1,4 @@
-# An Implementing-of-a-Hack-Computer
+# An Implementation-of-a-Hack-Computer
 Based on the project-centered textbook "The Elements of Computing Systems" and using its supplied tools.
 
 ## About the whole project:
